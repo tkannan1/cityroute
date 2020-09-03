@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.city.route.controller.CityConnectorControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.943 s - in com.city.route.controller.CityConnectorControllerTest
